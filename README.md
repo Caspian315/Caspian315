@@ -14,6 +14,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Computer%20Systems-2F80ED?style=flat-square" alt="Focus: Computer Systems" />
+  <img src="https://img.shields.io/badge/University-Shandong%20University-9B51E0?style=flat-square" alt="University: Shandong University" />
   <img src="https://img.shields.io/badge/Learning-ML%20%7C%20CUDA%20%7C%20Compilers-27AE60?style=flat-square" alt="Learning: ML, CUDA, Compilers" />
   <img src="https://img.shields.io/badge/Style-Notes%20to%20Projects-F2994A?style=flat-square" alt="Style: Notes to Projects" />
 </p>
@@ -28,7 +29,7 @@
 - 当前重点包括数据结构与算法、计算机组成、机器学习、编译器和 CUDA 编程。
 - 我正在练习把“能跑的代码”继续打磨成“别人也能读懂、复现和维护的项目”。
 
-I'm building a public learning record through course labs, systems assignments, AI experiments, and project documentation.
+I'm a student at Shandong University, building a public learning record through course labs, systems assignments, AI experiments, and project documentation.
 
 ---
 
