@@ -111,6 +111,7 @@ My 2026 goal is simple: learn consistently, build publicly, and make every repos
 ## Contact / 联系我
 
 - GitHub: [@Caspian315](https://github.com/Caspian315)
+- Website: [Caspian315.github.io](https://Caspian315.github.io)
 - Email: [528583777zcr@gmail.com](mailto:528583777zcr@gmail.com)
 
 <!--
