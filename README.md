@@ -58,8 +58,6 @@ My 2026 goal is simple: learn consistently, build publicly, and make every repos
 
 ## Learning Notes / 学习笔记
 
-> 这里可以放你的课程笔记、博客文章或阶段复盘链接。
-
 - [算法学习笔记](https://github.com/Caspian315/data-structures-lab-solutions) - 数据结构与算法课程实验、C++ 实现和笔记整理
 - [CUDA 编程学习笔记](https://github.com/Caspian315/CUDA-Learning) - CUDA 环境配置、GPU 编程基础和实验记录
 - [CS61C Assignments](https://github.com/Caspian315/CS61C-Assignment) - 计算机组成与系统基础相关 labs/projects 归档
